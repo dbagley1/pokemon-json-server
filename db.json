@@ -29,6 +29,29 @@
       "name": "charmeleon",
       "img": "https://static.pokemonpets.com/images/monsters-images-800-800/5-Charmeleon.webp",
       "likes": 11
+    },
+    {
+      "name": "Benjamin",
+      "img": "img.com",
+      "likes": 10000,
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "characterId": 1,
+      "content": "I love Bulbasaur!"
+    },
+    {
+      "id": 2,
+      "characterId": 1,
+      "content": "Bulbasaur is coool!"
+    },
+    {
+      "id": 3,
+      "characterId": 2,
+      "content": "I love Ivysaur more!"
     }
   ]
 }
